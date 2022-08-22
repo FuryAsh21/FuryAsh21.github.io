@@ -10,6 +10,6 @@
   </head>
 
   <body>
-      <!-- Insert HTML for contents. -->
+Welcome to my website. I am Ashraful Aarif
   </body>
-</html>    
+</html>
